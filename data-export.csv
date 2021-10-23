@@ -1,0 +1,334 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Rustom Ichhaporia
+# Property: Rustom Ichhaporia - GA4
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20201022
+# End date: 20211022
+
+City,Users
+Schaumburg,53
+Champaign,40
+Urbana,18
+Chicago,12
+San Francisco,12
+Ashburn,6
+Los Angeles,5
+New York,5
+Shanghai,5
+Atlanta,4
+Columbus,4
+San Jose,4
+Cary,3
+Dallas,3
+Roseville,3
+Toronto,3
+Washington,3
+Zhengzhou,3
+Bartlett,2
+Boardman,2
+Cupertino,2
+Denver,2
+Des Moines,2
+Elk Grove Village,2
+Hangzhou,2
+Kuta Selatan,2
+Lake Zurich,2
+Los Altos,2
+Menlo Park,2
+Pittsburgh,2
+Richmond Hill,2
+San Antonio,2
+Seattle,2
+Sugar Grove,2
+Wilmette,2
+Altoona,1
+Arlington Heights,1
+Balashikha,1
+Barrington,1
+Bellevue,1
+Belvidere,1
+Boydton,1
+Burlington,1
+Crystal Lake,1
+Dakar,1
+Des Plaines,1
+Doha,1
+Dublin,1
+Fayetteville,1
+Forest City,1
+Frankfort,1
+Gainesville,1
+Gibsons,1
+Guwahati,1
+Hackensack,1
+Hawthorne,1
+Houston,1
+Hudson,1
+Hyderabad,1
+Jaipur,1
+Joliet,1
+Juriquilla,1
+Kampala,1
+Kochi,1
+Kuala Lumpur,1
+Lake Forest,1
+Lisle,1
+London,1
+Medford,1
+Milwaukee,1
+Monterrey,1
+Montreal,1
+Morgantown,1
+Morton,1
+Mumbai,1
+Normal,1
+North Brunswick Township,1
+North Hampton,1
+North New Hyde Park,1
+Pekanbaru,1
+Pekin,1
+Petrosani,1
+Potomac,1
+Princeton,1
+Prineville,1
+Quincy,1
+Rowland Heights,1
+Shorewood,1
+Shumen,1
+Sofia,1
+South Barrington,1
+South Miami,1
+St. Louis,1
+Streamwood,1
+Targoviste,1
+Tarlac City,1
+Teixeira de Freitas,1
+Tinley Park,1
+Tucson,1
+Union Hill-Novelty Hill,1
+Uttarpara,1
+Wayne,1
+West Falls Church,1
+West Orange,1
+
+# Start date: 20201022
+# End date: 20211022
+City,Users,New users
+Schaumburg,53,52
+Champaign,40,38
+Urbana,18,14
+Chicago,12,11
+San Francisco,12,12
+Ashburn,6,6
+Los Angeles,5,5
+New York,5,5
+Shanghai,5,5
+Atlanta,4,4
+Columbus,4,4
+San Jose,4,4
+Cary,3,3
+Dallas,3,3
+Roseville,3,2
+Toronto,3,3
+Washington,3,3
+Zhengzhou,3,3
+Bartlett,2,2
+Boardman,2,2
+Cupertino,2,2
+Denver,2,1
+Des Moines,2,2
+Elk Grove Village,2,2
+Hangzhou,2,2
+Kuta Selatan,2,2
+Lake Zurich,2,2
+Los Altos,2,1
+Menlo Park,2,2
+Pittsburgh,2,2
+Richmond Hill,2,2
+San Antonio,2,2
+Seattle,2,2
+Sugar Grove,2,2
+Wilmette,2,2
+Altoona,1,1
+Arlington Heights,1,1
+Balashikha,1,1
+Barrington,1,1
+Bellevue,1,0
+Belvidere,1,1
+Boydton,1,1
+Burlington,1,1
+Crystal Lake,1,1
+Dakar,1,1
+Des Plaines,1,1
+Doha,1,1
+Dublin,1,1
+Fayetteville,1,1
+Forest City,1,1
+Frankfort,1,1
+Gainesville,1,1
+Gibsons,1,1
+Guwahati,1,1
+Hackensack,1,1
+Hawthorne,1,1
+Houston,1,1
+Hudson,1,1
+Hyderabad,1,1
+Jaipur,1,1
+Joliet,1,1
+Juriquilla,1,1
+Kampala,1,1
+Kochi,1,1
+Kuala Lumpur,1,1
+Lake Forest,1,1
+Lisle,1,1
+London,1,1
+Medford,1,1
+Milwaukee,1,0
+Monterrey,1,1
+Montreal,1,1
+Morgantown,1,1
+Morton,1,0
+Mumbai,1,1
+Normal,1,1
+North Brunswick Township,1,1
+North Hampton,1,1
+North New Hyde Park,1,1
+Pekanbaru,1,1
+Pekin,1,1
+Petrosani,1,1
+Potomac,1,1
+Princeton,1,1
+Prineville,1,1
+Quincy,1,1
+Rowland Heights,1,1
+Shorewood,1,1
+Shumen,1,1
+Sofia,1,0
+South Barrington,1,1
+South Miami,1,1
+St. Louis,1,1
+Streamwood,1,0
+Targoviste,1,1
+Tarlac City,1,1
+Teixeira de Freitas,1,1
+Tinley Park,1,1
+Tucson,1,1
+Union Hill-Novelty Hill,1,1
+Uttarpara,1,1
+Wayne,1,1
+West Falls Church,1,1
+West Orange,1,1
+
+# All Users
+# Start date: 20201022
+# End date: 20211022
+
+City,Users,New users,Engaged sessions,Engagement rate,Engaged sessions per user,Average engagement time,Event count,Conversions,Total revenue
+Schaumburg,53,52,36,0.6,0.6792452830188679,23.358490566037737,388,0,0
+Champaign,40,38,61,0.6421052631578947,1.525,73.4,675,0,0
+Urbana,18,14,14,0.5185185185185185,0.7777777777777778,20.11111111111111,149,0,0
+Chicago,12,11,10,0.6666666666666666,0.8333333333333334,19.666666666666668,84,0,0
+San Francisco,12,12,11,0.8461538461538461,0.9166666666666666,27.916666666666668,92,0,0
+(not set),9,9,3,0.3,0.3333333333333333,5.222222222222222,38,0,0
+Ashburn,6,6,1,0.16666666666666666,0.16666666666666666,45.166666666666664,27,0,0
+Los Angeles,5,5,4,0.6666666666666666,0.8,9.2,32,0,0
+New York,5,5,4,0.8,0.8,20.6,35,0,0
+Shanghai,5,5,0,0,0,0,15,0,0
+Atlanta,4,4,5,0.8333333333333334,1.25,40,29,0,0
+Columbus,4,4,0,0,0,0.25,13,0,0
+San Jose,4,4,3,0.75,0.75,16,29,0,0
+Cary,3,3,3,1,1,10,15,0,0
+Dallas,3,3,1,0.3333333333333333,0.3333333333333333,13.333333333333334,16,0,0
+Roseville,3,2,1,0.3333333333333333,0.3333333333333333,11.333333333333334,14,0,0
+Toronto,3,3,2,0.6666666666666666,0.6666666666666666,17.333333333333332,21,0,0
+Washington,3,3,1,0.3333333333333333,0.3333333333333333,5,14,0,0
+Zhengzhou,3,3,0,0,0,0,11,0,0
+Bartlett,2,2,2,1,1,37.5,15,0,0
+Boardman,2,2,0,0,0,0,7,0,0
+Cupertino,2,2,2,1,1,20.5,15,0,0
+Denver,2,1,1,0.3333333333333333,0.5,46,17,0,0
+Des Moines,2,2,1,0.5,0.5,17,9,0,0
+Elk Grove Village,2,2,2,1,1,58,10,0,0
+Hangzhou,2,2,0,0,0,1,7,0,0
+Kuta Selatan,2,2,1,0.5,0.5,5,9,0,0
+Lake Zurich,2,2,1,0.5,0.5,2,11,0,0
+Los Altos,2,1,1,0.25,0.5,0,13,0,0
+Menlo Park,2,2,1,0.5,0.5,3.5,7,0,0
+Pittsburgh,2,2,1,0.5,0.5,24.5,10,0,0
+Richmond Hill,2,2,1,0.5,0.5,10.5,9,0,0
+San Antonio,2,2,0,0,0,0,8,0,0
+Seattle,2,2,2,1,1,40,15,0,0
+Sugar Grove,2,2,1,0.5,0.5,30,12,0,0
+Wilmette,2,2,2,1,1,20,16,0,0
+Altoona,1,1,1,1,1,0,4,0,0
+Arlington Heights,1,1,1,1,1,67,5,0,0
+Balashikha,1,1,1,1,1,14,9,0,0
+Barrington,1,1,1,1,1,0,6,0,0
+Bellevue,1,0,0,0,0,1,1,0,0
+Belvidere,1,1,1,1,1,22,9,0,0
+Boydton,1,1,1,1,1,23,5,0,0
+Burlington,1,1,1,1,1,15,6,0,0
+Crystal Lake,1,1,1,1,1,43,5,0,0
+Dakar,1,1,1,1,1,23,7,0,0
+Des Plaines,1,1,1,1,1,25,5,0,0
+Doha,1,1,0,0,0,5,5,0,0
+Dublin,1,1,1,1,1,8,5,0,0
+Fayetteville,1,1,1,1,1,10,15,0,0
+Forest City,1,1,0,0,0,0,3,0,0
+Frankfort,1,1,1,1,1,136,13,0,0
+Gainesville,1,1,1,1,1,9,5,0,0
+Gibsons,1,1,1,1,1,34,4,0,0
+Guwahati,1,1,0,0,0,0,3,0,0
+Hackensack,1,1,1,1,1,32,8,0,0
+Hawthorne,1,1,1,1,1,44,8,0,0
+Houston,1,1,1,1,1,36,11,0,0
+Hudson,1,1,1,1,1,32,5,0,0
+Hyderabad,1,1,1,1,1,28,5,0,0
+Jaipur,1,1,1,1,1,5,7,0,0
+Joliet,1,1,1,1,1,162,15,0,0
+Juriquilla,1,1,1,1,1,9,4,0,0
+Kampala,1,1,1,1,1,27,5,0,0
+Kochi,1,1,1,1,1,11,8,0,0
+Kuala Lumpur,1,1,1,0.5,1,28,8,0,0
+Lake Forest,1,1,1,1,1,28,6,0,0
+Lisle,1,1,1,1,1,29,5,0,0
+London,1,1,0,0,0,0,3,0,0
+Medford,1,1,1,1,1,26,6,0,0
+Milwaukee,1,0,0,0,0,18,1,0,0
+Monterrey,1,1,1,0.3333333333333333,1,9,8,0,0
+Montreal,1,1,1,1,1,30,7,0,0
+Morgantown,1,1,1,1,1,26,6,0,0
+Morton,1,0,1,1,1,45,11,0,0
+Mumbai,1,1,1,1,1,117,9,0,0
+Normal,1,1,1,1,1,62,8,0,0
+North Brunswick Township,1,1,0,0,0,0,3,0,0
+North Hampton,1,1,1,1,1,25,5,0,0
+North New Hyde Park,1,1,1,1,1,11,6,0,0
+Pekanbaru,1,1,1,1,1,66,7,0,0
+Pekin,1,1,1,1,1,25,6,0,0
+Petrosani,1,1,0,0,0,9,4,0,0
+Potomac,1,1,1,1,1,17,6,0,0
+Princeton,1,1,1,1,1,24,6,0,0
+Prineville,1,1,0,0,0,0,3,0,0
+Quincy,1,1,0,0,0,0,4,0,0
+Rowland Heights,1,1,1,1,1,22,6,0,0
+Shorewood,1,1,1,1,1,170,28,0,0
+Shumen,1,1,1,1,1,16,5,0,0
+Sofia,1,0,0,0,0,0,2,0,0
+South Barrington,1,1,1,1,1,0,6,0,0
+South Miami,1,1,1,1,1,57,7,0,0
+St. Louis,1,1,1,1,1,34,13,0,0
+Streamwood,1,0,1,1,1,27,6,0,0
+Targoviste,1,1,0,0,0,11,9,0,0
+Tarlac City,1,1,0,0,0,0,6,0,0
+Teixeira de Freitas,1,1,1,1,1,42,7,0,0
+Tinley Park,1,1,1,1,1,0,6,0,0
+Tucson,1,1,1,1,1,21,5,0,0
+Union Hill-Novelty Hill,1,1,2,1,2,37,11,0,0
+Uttarpara,1,1,1,1,1,12,7,0,0
+Wayne,1,1,1,1,1,0,4,0,0
+West Falls Church,1,1,0,0,0,0,3,0,0
+West Orange,1,1,1,1,1,18,6,0,0
